@@ -26,7 +26,7 @@
   bottom: 0;
   left: 26px;
   width: 60%;
-  border-bottom: 3px solid #fdc435;
+  border-bottom: 3px solid #BD35FD;
   border-radius: 2px;
 }
 
@@ -80,7 +80,7 @@
 
 .contact-form form button {
   width: 90px;
-  background-color: #fdc435;
+  background-color:#BD35FD;
   border: none;
   align-self: self-end;
   font-weight: bold;
@@ -92,7 +92,7 @@
 }
 
 .contact-form form button:hover {
-  background-color: #f0b828;
+  background-color: #BD35FD;
 }
 
 .contact-container form textarea {
@@ -128,12 +128,12 @@
 }
 
 .contact-footer > .resume-link a {
-  color: #f4b410;
+  color: #BD35FD;
   text-decoration: none;
 }
 
 .contact-footer > .resume-link a:hover {
-  color: #dfaa25;
+  color: #BD35FD;
 }
 
 /* Add this to your Contact.css */

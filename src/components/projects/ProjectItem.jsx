@@ -19,11 +19,7 @@ const ProjectItem = ({
           <a href={projectLink} target="blank">
             View Project
           </a>
-          {category !== "web-designs" && (
-            <a href={codeLink} target="blank" rel="noopener noreferrer">
-              View Code
-            </a>
-          )}
+          
         </div>
       </div>
       <div className="project-image">

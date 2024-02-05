@@ -4,17 +4,12 @@ import EducationItem from "./EducationItem";
 
 const Education = () => {
   const eduData = [
+ 
     {
-      year: "2021-2023",
-      degree: "M. Sc Computer Science",
-      college: "BBCIT",
-      cgpa: "7.3",
-    },
-    {
-      year: "2018-2021",
+      year: "2018-2022",
       degree: "B. Sc Computer Science",
       college: "Prathibha Degree College",
-      cgpa: "8.8",
+      cgpa: "8.3",
     },
   ];
   return (

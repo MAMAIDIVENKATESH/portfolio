@@ -23,7 +23,7 @@
   bottom: 0;
   left: 24px;
   width: 60%;
-  border-bottom: 3px solid #fdc435;
+  border-bottom: 3px solid #BD35FD;
   border-radius: 2px;
 }
 
@@ -31,7 +31,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
   flex-wrap: wrap;
 }
 .category-buttons button {
@@ -110,11 +110,11 @@
   background-color: rgb(237, 235, 235);
 }
 .project-details .project-buttons a:nth-child(1) {
-  background-color: #fdc435;
+  background-color: #BD35FD;
   border: none;
 }
 .project-details .project-buttons a:nth-child(1):hover {
-  background-color: #f0b828;
+  background-color: #BD35FD;
 }
 .project-image {
   /* border: 2px solid black; */

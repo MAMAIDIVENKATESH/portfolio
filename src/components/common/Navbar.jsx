@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <nav>
-      <a href="">Bhanu Vamshi</a>
+      <a href="">Venkatesh</a>
       <ul>
         <li>
           <a

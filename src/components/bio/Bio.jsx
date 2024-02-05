@@ -9,13 +9,13 @@ const Bio = () => {
       <div className="bio-content">
         <div className="bio-text">
           <h2 style={{ fontFamily: "Playfair Display" }}>
-            Hello, I’m <br /> Bhanu Vamshi
+            Hello, I’m <br /> Venkatesh
           </h2>
           <p
             style={{
               fontFamily: "Nunito",
               textTransform: "uppercase",
-              color: "#fdc435",
+              color: "#BD35FD",
               fontWeight: "bold",
               paddingBottom: "5px",
               backgroundColor: "transparent",
@@ -24,18 +24,18 @@ const Bio = () => {
             Ready to Build!
           </p>
           <p>
-            Fresh out of M.Sc. land, diving into web dev! Passionate learner,
+            Fresh out of B.Sc. land, diving into web dev! Passionate learner,
             building user-friendly interfaces. Let's code the future together!
           </p>
           <div className="bio-text-buttons">
             <a
-              href="https://www.linkedin.com/in/bhanu-vamshi-anumula-3b2740217/"
+              href="https://www.linkedin.com/in/venkatesh-mamidi-0692b2258/"
               target="blank"
             >
               Linkedin
             </a>
             <a
-              href="https://drive.google.com/file/d/1uUHSaICPOjEOnQCOII57Jkmtzc_BYxZS/view?usp=sharing"
+              href="https://drive.google.com/file/d/1rCoV6xi-Jaj-_8jczggfJhpYCakAKurS/view?usp=drive_link"
               target="blank"
             >
               Resume{" "}

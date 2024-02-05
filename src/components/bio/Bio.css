@@ -43,10 +43,10 @@
 }
 .bio-content .bio-text .bio-text-buttons a:nth-child(2) {
   border-radius: 10px;
-  background-color: #fdc435;
+  background-color: #BD35FD;
 }
 .bio-content .bio-text .bio-text-buttons a:nth-child(2):hover {
-  background-color: #f0b828;
+  background-color: #a939dd;
 }
 @media (max-width: 1057px) {
   .bio-content .bio-text {

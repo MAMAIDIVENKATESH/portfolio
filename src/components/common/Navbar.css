@@ -28,7 +28,7 @@ ul {
 }
 
 a:hover {
-  color: #f0b828;
+  color: #BD35FD;
 }
 nav > ul {
   display: flex;
@@ -43,5 +43,5 @@ nav > ul {
 }
 
 nav > ul > li > a.active-link {
-  color: #fdc435;
+  color: #BD35FD;
 }

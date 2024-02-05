@@ -5,7 +5,7 @@ import { useForm, ValidationError } from "@formspree/react";
 
 const Contact = () => {
   const [showSuccessMessage, setShowSuccessMessage] = useState(false);
-  const [state, handleSubmit] = useForm("moqobbgy");
+   const [state, handleSubmit] = useForm("xzbnevgj");
 
   useEffect(() => {
     if (state.succeeded) {
@@ -25,7 +25,7 @@ const Contact = () => {
     <div id="contact">
       <h1>Contact</h1>
       <div className="contact-form">
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} >
           <input
             type="text"
             placeholder="Username"
@@ -56,7 +56,7 @@ const Contact = () => {
           <div className="success-message">
             <h2
               style={{
-                color: "#f0b828",
+                color: "#BD35FD",
                 fontFamily: "Playfair Display",
                 paddingBottom: "20px",
               }}
@@ -70,24 +70,24 @@ const Contact = () => {
         </div>
       )}
       <div className="contact-logo">
-        <a href="https://github.com/BhanuVamshi02" target="blank">
+        <a href="https://github.com/MAMAIDIVENKATESH" target="blank">
           <img src="/assets/github-port.png" alt="" />
         </a>
         <a
-          href="https://www.linkedin.com/in/bhanu-vamshi-anumula-3b2740217"
+          href="https://www.linkedin.com/in/venkatesh-mamidi-0692b2258/"
           target="blank"
         >
           <img src="/assets/linkedin-port.png" alt="" />
         </a>
-        <a href="mailto:bhanuvamshi0211@gmail.com" target="blank">
+        <a href="mailto:mamidi096@gmail.com" target="blank">
           <img src="/assets/mail-port.png" alt="" />
         </a>
       </div>
       <div className="contact-footer">
-        <p>bhanuvamshi0211@gmail.com |</p>
+        <p>mamidi096@gmail.com |</p>
         <p className="resume-link">
           Download Resume{" "}
-          <a href="/assets/BhanuVamshi.pdf" download="bhanu-vamshi-resume">
+          <a href="/assets/Venkatesh.pdf" download="Venkatesh-resume">
             click here
           </a>
         </p>
@@ -100,7 +100,7 @@ const Contact = () => {
           backgroundColor: "transparent",
         }}
       >
-        Bhanu Vamshi@{date}
+        Venkatesh@{date}
       </p>
     </div>
   );
